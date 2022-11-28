@@ -1,0 +1,30 @@
+body {
+     background-image: url('https://imgs.search.brave.com/RD2QYBp9NNYAi1PmONVdTV0PGWHT73IpO2W3ODdQ7FI/rs:fit:1200:1080:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODc0/MTQuanBn');
+ }
+
+ menu h1 {
+    color:black;
+    font-family:sans-serif;
+ }
+
+.text {
+   font-family: sans-serif;
+
+}
+.profile {
+   width: 350px;
+   height: 350px;
+   border-radius: 50%;
+   height:80px;
+   width:80px;
+   float: right;
+}
+
+.namegithub{
+   float: right;
+   font-family: sans-serif;
+}
+.judul {
+   font-family: sans-serif;
+   font-size: 100px;
+}
